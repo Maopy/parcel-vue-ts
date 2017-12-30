@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./src/index.ts","dynamic":true}],"generated":{"html":"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Parcel Vue</title>\n</head>\n<body>\n  <div id=\"app\">\n  </div>\n\n  <script src=\"/dist/parcel-vue.js\"></script>\n</body>\n</html>\n"},"hash":"ac6ee458fff08b2a4d670243dc3a64a1"}
